@@ -1,0 +1,13 @@
+{
+  "id": "meistertask",
+  "name": "meister-task",
+  "version": "1.0.0",
+  "description": "MeisterTask recipe for Franz.",
+  "main": "index.js",
+  "author": "Marcin Jakubik <marcinjak9@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.meistertask.com/app/",
+    "hasNotificationSound": false
+  }
+}
