@@ -6,6 +6,7 @@
   "main": "index.js",
   "author": "Marcin Jakubik <marcinjak9@gmail.com>",
   "license": "MIT",
+  "repository": "https://github.com/marcinjak9/franz-recipe-meistertask",
   "config": {
     "serviceURL": "https://www.meistertask.com/app/",
     "hasNotificationSound": false
